@@ -62,8 +62,8 @@ Dataset includes:
 
 1. Clone the repo:
 ```bash
-git clone https://github.com/yourusername/spamshield.git
-cd spamshield
+git clone https://github.com/Sharanya-krishnamurthi/SpamShield.git
+cd SpamShield
 ````
 
 2. Install dependencies:
